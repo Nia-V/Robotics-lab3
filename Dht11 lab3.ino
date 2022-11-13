@@ -1,3 +1,6 @@
+/*This code displays readings of a dht11 sesnor on an lcd display
+Main objectives: installing libraries, including libraries, using lcd library, using dht library, using analog read.
+*/
 #include <DHT.h>// include dht library
 #include <DHT_U.h>// include dht driver
 #include <LiquidCrystal.h>// include lcd library

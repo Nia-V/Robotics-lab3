@@ -1,3 +1,8 @@
+/*This code mesasures the volts and bits of a potentiometer.
+Main objectives: installing libraries, including libraries, using lcd library, using analog read, doing math using arduino, using if statements.
+*/
+
+
 #include <LiquidCrystal.h>//includes lcd library
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);// sets lcd pin outs to arduino outputs
 const int pbPin = 7;;// declares the value of 7 to be used for the pushbutton pin

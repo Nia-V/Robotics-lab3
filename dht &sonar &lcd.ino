@@ -1,3 +1,8 @@
+/*this code increases the accuracy of an ultrasonic sensor using parameters obtained by a dht11.
+Main objectives: installing libraries, including libraries, using lcd, dht, & new ping  libraries
+*/
+
+
 #include <LiquidCrystal.h>// include lcd library
 #include <DHT.h>// include dht library
 #include <DHT_U.h>// include dht driver
